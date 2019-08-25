@@ -53,7 +53,7 @@ echo  $yellow" 13) Tools RCT"
 echo  $yellow" 14)  cc fresh Amazon Dan Untung Carding"
 echo  $red" 15) Exit "
 echo  $white""
-read -p "[SANTRI GANS]> " bro;
+read -p "[BrayZx Ofc]> " bro;
 
 if [ $bro = 1 ] || [ $bro = 01 ]
 then
