@@ -53,7 +53,7 @@ echo  $yellow" 13) Tools RCT"
 echo  $yellow" 14)  cc fresh Amazon Dan Untung Carding"
 echo  $red" 15) Exit "
 echo  $white""
-read -p "[SANTRI GANS]> " bro;
+read -p "[BRAYZX OFC]> " bro;
 
 if [ $bro = 1 ] || [ $bro = 01 ]
 then
@@ -263,7 +263,7 @@ if [ $bro = 15 ] || [ $bro = 15 ]
 then
 echo " Thanks To BrayZx team official "
 sleep 1
-echo " Santri Jombang"
+echo " Cyber Jombang"
 sleep 1
 echo " Bay-Bay "
 sleep 1
